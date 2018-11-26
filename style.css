@@ -1,0 +1,35 @@
+p.four{
+    font-size: 25pt;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+p.three{
+    font-size: 25pt;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+p.two{
+    font-size: 25pt;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+p.welcome {
+    direction: center;
+    font-size: 38pt;
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    background-color: darkblue;
+}
